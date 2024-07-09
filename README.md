@@ -1,7 +1,6 @@
 ## Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen0146&layout=compact&theme=vision-friendly-dark)](https://github.com/mohsen0146/github-readme-stats)
 
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img width="300"  src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,html,css,alpinejs,redux,figma&perline=3" />
