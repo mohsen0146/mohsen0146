@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div id="header" align="center">
+  <img src="https://giphy.com/stickers/purwadhikaschool-coding-programming-purwadhika-1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img  src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,html,css,alpinejs,redux,figma&perline=3" />
