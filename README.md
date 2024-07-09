@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,redux,tailwind,html,css,alpinejs,figma,github,git&perline=3" />
+    <img style={width:10px} src="https://skillicons.dev/icons?i=react,nextjs,js,redux,tailwind,html,css,alpinejs,figma,github,git&perline=3" />
   </a>
 </p>
 
