@@ -1,7 +1,5 @@
 ## Hi there 👋
-<div align="center">
-    <img width="300"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen0146&layout=compact&theme=vision-friendly-dark)(https://github.com/mohsen0146/github-readme-stats)" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen0146&layout=compact&theme=vision-friendly-dark)](https://github.com/mohsen0146/github-readme-stats)
 
 
 <p align="center">
