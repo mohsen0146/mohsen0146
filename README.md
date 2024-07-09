@@ -1,7 +1,5 @@
 ## Hi there 👋
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNwN2VuYTNid2V0bW9weHRodW94cjB3OGxweGJwNWJ4amNmcG5xaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/mohsen0146/github-readme-stats)
 <p align="center">
   <a href="https://skillicons.dev">
     <img width="300"  src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,html,css,alpinejs,redux,figma&perline=3" />
