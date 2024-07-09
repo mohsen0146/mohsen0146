@@ -1,10 +1,10 @@
 ## Hi there 👋
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=react,nextjs,js,redux,tailwind,html,css,alpinejs,figma,github,git)" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,redux,tailwind,html,css,alpinejs,figma,github,git" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,redux,tailwind,html,css,alpinejs,figma,github,git,)](https://skillicons.dev)
+
 
 <!--
 **mohsen0146/mohsen0146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
