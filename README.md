@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,redux,tailwind,html,css,alpinejs,figma,github,git,)](https://skillicons.dev)
 
 <!--
 **mohsen0146/mohsen0146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
