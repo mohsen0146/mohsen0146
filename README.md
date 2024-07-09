@@ -4,7 +4,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img  src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,html,css,alpinejs,redux,figma&perline=3" />
+    <img width="100"  src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,html,css,alpinejs,redux,figma&perline=3" />
   </a>
 </p>
 
