@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/purwadhikaschool-coding-programming-purwadhika-1sgetPM00wWqJpVUTl" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNwN2VuYTNid2V0bW9weHRodW94cjB3OGxweGJwNWJ4amNmcG5xaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
